@@ -469,3 +469,4 @@
 *://e.gendai.net/*
 *://www.sejuku.net/*
 *://blog.esuteru.com/*
+*://krsw.5ch.net/*
