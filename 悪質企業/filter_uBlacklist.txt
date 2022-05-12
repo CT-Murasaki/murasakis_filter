@@ -34,3 +34,8 @@
 *://newspicks.com/*
 *://teratail.com/*
 *://www.sejuku.net/*
+*://www.tokyo-sports.co.jp/*
+*://twitter.com/tospo_prores*
+*://news.yahoo.co.jp/media/tospoweb*
+*://www.e-shinbun.net/tokyo-sports-daily/*
+*://twitter.com/okamotospo*
