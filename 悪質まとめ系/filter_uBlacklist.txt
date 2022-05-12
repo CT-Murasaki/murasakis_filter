@@ -120,3 +120,6 @@
 *://mayutan.com/*
 *://chiyuki.jp/*
 *://wazzelife.com/*
+*://narudora.jp/*
+*://www.slangeigo.com/*
+*://www.gyokochika.com/*
