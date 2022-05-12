@@ -2,3 +2,5 @@
 *://www.nikkan-gendai.com/*
 *://www.zakzak.co.jp/*
 *://newspicks.com/*
+*://teratail.com/*
+*://www.sejuku.net/*
