@@ -123,3 +123,6 @@
 *://narudora.jp/*
 *://www.slangeigo.com/*
 *://www.gyokochika.com/*
+*://*.xsrv.jp/*
+*://*.hukurank.com/*
+*://*.smartlog.jp/*
