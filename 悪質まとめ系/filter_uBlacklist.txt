@@ -119,3 +119,4 @@
 *://home.kingsoft.jp/*
 *://mayutan.com/*
 *://chiyuki.jp/*
+*://wazzelife.com/*
