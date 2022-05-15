@@ -130,3 +130,6 @@
 *://*.mybouzu.info/*
 *://*.koregasiritai.com/*
 *://*.accidentsummary.com/*
+*://www.yurusaretakodomotachi.com/*
+*://ganryujima-stage.jp/*
+*://yuno-1031.com/*
