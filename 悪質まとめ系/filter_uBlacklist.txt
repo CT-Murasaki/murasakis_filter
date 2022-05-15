@@ -123,3 +123,10 @@
 *://narudora.jp/*
 *://www.slangeigo.com/*
 *://www.gyokochika.com/*
+*://*.matomame.jp/*
+*://*.iromame-beans.jp/*
+*://*.javelinmitsu.com/*
+*://*.matomedane.jp/*
+*://*.mybouzu.info/*
+*://*.koregasiritai.com/*
+*://*.accidentsummary.com/*
