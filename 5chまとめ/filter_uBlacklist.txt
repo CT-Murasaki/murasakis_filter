@@ -214,3 +214,5 @@
 *://jiwasoku.com/*
 *://tyoushikun.net/*
 *://www.dorazuki.site/*
+*://nogizaka46.antena-kun.com/*
+*://heart-net.xyz/*
