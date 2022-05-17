@@ -158,3 +158,10 @@
 *://*.2ysokuhou.com/*
 *://*.5chantena.com/*
 *://*.vavolab.com/*
+*://fgo-babylonia-cafe.jp/*
+*://doujinsokuhou45.com/*
+*://himasoku.com/*
+*://anige-labo.com/*
+*://www.anige-sokuhouvip.com/*
+*://oomonoyoutubersokuhou.blogo.jp/*
+*://blog.esuteru.com/*
