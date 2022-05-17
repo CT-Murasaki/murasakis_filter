@@ -144,3 +144,12 @@
 *://www.tm106.jp/*
 *://www.menuguildsystem.com/*
 *://news.matomegamer.com/*
+*://espo-game.jp/*
+*://entertainment-topics.jp/*
+*://belcy.jp/*
+*://meaning.jp/*
+*://moto-neta.com/*
+*://word-dictionary.jp/*
+*://newscast.jp/*
+*://www.appps.jp/*
+*://yakyuburo.com/*
