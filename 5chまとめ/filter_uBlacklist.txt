@@ -216,3 +216,9 @@
 *://www.dorazuki.site/*
 *://nogizaka46.antena-kun.com/*
 *://heart-net.xyz/*
+*://sports-sokuhou.com/*
+*://baseball-matome.tokyo/*
+*://spomani.xyz/*
+*://sportsnews.jp/*
+*://npb-mlb.net/*
+*://wikipurofu.net/*
