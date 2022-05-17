@@ -293,3 +293,11 @@
 *://swallows.nanj-antenna.net/*
 *://nana-press.com/*
 *://www.nicovideo.jp/tag/%E3%81%AA%E3%82%93J*
+*://onjstu.livedoor.blog/*
+*://3.114.173.126/*
+*://sapparipiman.com/*
+*://twitter.com/nandemo_uketori*
+*://shadosoku.com/*
+*://blog.livedoor.jp/pawapuro_kouryaku/*
+*://2channeler.com/*
+*://applion.jp/android/word/2ch%E3%81%AA%E3%82%93J%E3%83%BB%E3%81%8A%E3%82%93J%E3%81%BE%E3%81%A8%E3%82%81%20334Viewer/*
