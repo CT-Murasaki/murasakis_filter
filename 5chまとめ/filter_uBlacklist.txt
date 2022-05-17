@@ -222,3 +222,9 @@
 *://sportsnews.jp/*
 *://npb-mlb.net/*
 *://wikipurofu.net/*
+*://onjsummarynet.net/*
+*://toushichannel.net/*
+*://mananige.site/*
+*://yoshidakenkou.net/*
+*://2chm-1.com/*
+*://kokopyon.net/*
