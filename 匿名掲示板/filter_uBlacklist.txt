@@ -1,2 +1,3 @@
 *://medaka.5ch.net/*
 *://asahi.5ch.net/*
+*://swallow.5ch.net/*
