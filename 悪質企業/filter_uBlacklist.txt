@@ -39,3 +39,5 @@
 *://news.yahoo.co.jp/media/tospoweb*
 *://www.e-shinbun.net/tokyo-sports-daily/*
 *://twitter.com/okamotospo*
+*://togetter.com/*
+*://www.tiktok.com/*
