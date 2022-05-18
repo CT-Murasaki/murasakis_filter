@@ -5,7 +5,6 @@
 *://*.xn--j-69txf.com/*
 *://*.nanj-short.net/*
 *://*.matome-ch.com/*
-*://*.amazon.co.jp/*
 *://*.nanjallstars.net/*
 *://*.yakiu-antenna.net/*
 *://*.giants-news.com/*
@@ -14,13 +13,10 @@
 *://*.baseballinfo.net/*
 *://*.npb-news.com/*
 *://*.sematome.com/*
-*://*.main.jp/*
 *://*.2ch-matome.net/*
 *://*.matomelotte.com/*
 *://*.doorblog.jp/*
 *://d.hatena.ne.jp/keyword/%E3%81%AA%E3%82%93J*
-*://*.officialblog.jp/*
-*://*.app-liv.jp/*
 *://nogiviola.livedoor.biz/*
 *://hamusoku.com/*
 *://nanjgod.blog.jp/*
