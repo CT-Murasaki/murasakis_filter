@@ -49,7 +49,6 @@
 *://*.katuru.com/*
 *://*.warotamaker2.com/*
 *://*.rocketnews24.com/*
-*://*.fc2.com/*
 *://*.rastaneko-blog.com/*
 *://blog.livedoor.com/category/445/*
 *://*.ge-soku.com/*
@@ -57,7 +56,6 @@
 *://*.itsys-tech.com/*
 *://*.pioncoo.net/*
 *://*.livejupiter2.net/*
-*://*.blog.jp/*
 *://*.inutomo11.com/*
 *://*.nanj-matome.com/*
 *://*.vipnews.jp/*
