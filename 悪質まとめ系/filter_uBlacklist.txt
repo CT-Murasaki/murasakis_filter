@@ -181,3 +181,9 @@
 *://wildgoose-movie.com/*
 *://outidesigoto.com/*
 *://fukutokuya.jp/*
+*://tenkinlife.com/*
+*://parupunte-life.com/*
+*://yayoi-b.com/*
+*://solaretech.com/*
+*://sogno.mobi/*
+*://www.pinxuanit.com/*
