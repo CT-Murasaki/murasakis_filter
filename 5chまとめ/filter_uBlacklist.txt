@@ -68,7 +68,6 @@
 *://*.usi32.com/*
 *://*.yugioh-hamon.com/*
 *://*.xn--l8ji3gbx6a6c5c4gu983d.com/*
-*://*.livedoor.biz/*
 *://www.youtube.com/channel/UCwQhEUGVfOJHI92G237N9Og*
 *://blog.livedoor.jp/a_load/*
 *://*.game-chan.net/*
