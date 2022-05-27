@@ -4,3 +4,5 @@
 *://nova.5ch.net/*
 *://lavender.5ch.net/*
 *://hayabusa9.5ch.net/*
+*://dic.nicovideo.jp/b/a/*
+*://egg.5ch.net/*
