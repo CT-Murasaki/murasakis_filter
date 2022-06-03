@@ -150,6 +150,7 @@
 *://meaning.jp/*
 *://moto-neta.com/*
 *://word-dictionary.jp/*
+*://lyrtech.com/*
 *://newscast.jp/*
 *://www.appps.jp/*
 *://yakyuburo.com/*
