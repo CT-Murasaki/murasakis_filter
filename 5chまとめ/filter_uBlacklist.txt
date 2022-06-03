@@ -634,3 +634,6 @@
 *://app-liv.jp/3337997/*
 *://twitter.com/twitterapi/*
 *://daisogench.com/*
+*://nanjnomori.blog.jp/*
+*://lattetino.blog.fc2.com/*
+*://blog.livedoor.jp/sskssk20180609/*
