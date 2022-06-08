@@ -42,3 +42,4 @@
 *://togetter.com/*
 *://www.tiktok.com/*
 *://d.hatena.ne.jp/*
+*://netnavi.appcard.jp/*
