@@ -274,6 +274,5 @@
 *://ggjapan.blog.jp/*
 *://wq-wq.com/*
 *://perspective.wp-x.jp/*
-*://www.sankei.com/*
 *://www.hachi8.me/*
 *://brandnew-s.com/*
