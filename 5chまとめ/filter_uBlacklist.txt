@@ -638,3 +638,9 @@
 *://lattetino.blog.fc2.com/*
 *://blog.livedoor.jp/sskssk20180609/*
 *://copysoku.com/*
+*://sigoto-2ch.site/*
+*://newsokutimes.website/*
+*://securite-prevention-sncf.com/*
+*://pien9026.com/*
+*://may.2chan.net/*
+*://buss.lifecycle-maps.com/*
