@@ -8,3 +8,4 @@
 *://egg.5ch.net/*
 *://mamastar.jp/*
 *://bakusai.com/*
+*://5ch.net/*
