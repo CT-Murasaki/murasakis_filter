@@ -9,3 +9,4 @@
 *://mamastar.jp/*
 *://bakusai.com/*
 *://5ch.net/*
+*://itest.5ch.net/*
