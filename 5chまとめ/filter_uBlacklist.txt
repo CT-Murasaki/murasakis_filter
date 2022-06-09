@@ -694,3 +694,5 @@
 *://freefreech.com/*
 *://www.youtube.com/channel/UClq_qm3KAXr5o1QKUHX554Q*
 *://oekaki-navi.blog.jp/*
+*://2ch-matomenews.com/*
+*://buzzterr.com/*
