@@ -43,3 +43,12 @@
 *://www.tiktok.com/*
 *://d.hatena.ne.jp/*
 *://netnavi.appcard.jp/*
+*://www.huffingtonpost.jp/*
+*://president.jp/*
+*://twitter.com/HuffPostJapan*
+*://news.yahoo.co.jp/media/huffpost*
+*://m.youtube.com/c/HuffingtonpostJp*
+*://ja-jp.facebook.com/HuffPostJapan/*
+*://www.youtube.com/channel/UCPXoFTnS4SKXXxw2cdEHgvQ*
+*://twitter.com/huffpostjapan*
+*://www.instagram.com/huffpostjapan/*
