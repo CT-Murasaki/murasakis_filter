@@ -295,3 +295,16 @@
 *://akisimple.com/*
 *://trendy15.info/*
 *://ameblo.jp/springwaltz/*
+*://1129.work/*
+*://diary.ponkichi01.com/*
+*://mikano-kaiji.com/*
+*://dococore.com/*
+*://torezou.com/*
+*://goldfortune.jp/*
+*://startupthecomp.com/*
+*://next-infonews.com/*
+*://occhocoyomeko.com/*
+*://ronron.aimergateau.com/*
+*://sn-jp.com/*
+*://tubameya.blog.jp/*
+*://komatsushima-life.net/*
