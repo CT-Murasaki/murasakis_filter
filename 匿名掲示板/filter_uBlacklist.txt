@@ -11,3 +11,4 @@
 *://5ch.net/*
 *://itest.5ch.net/*
 *://nhk2.5ch.net/*
+*://komachi.yomiuri.co.jp/*
