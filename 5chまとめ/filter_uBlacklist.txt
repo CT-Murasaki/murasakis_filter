@@ -717,3 +717,7 @@
 *://eeco2015.com/*
 *://karamato.livedoor.blog/*
 *://kouhey.blog.jp/*
+*://buzlog.com/*
+*://comedydouga.com/*
+*://tweetsoku.com/*
+*://you1news.com/*
