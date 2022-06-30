@@ -12,3 +12,5 @@
 *://itest.5ch.net/*
 *://nhk2.5ch.net/*
 *://komachi.yomiuri.co.jp/*
+*://*.5ch.net/*
+*://dic.nicovideo.jp/b/a/*
