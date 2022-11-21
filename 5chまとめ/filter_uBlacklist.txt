@@ -721,3 +721,11 @@
 *://comedydouga.com/*
 *://tweetsoku.com/*
 *://you1news.com/*
+*://*.matomesan.jp/*
+*://*.nanjmuseum.com/*
+*://*.hobonichielog.com/*
+*://*.ikz.jp/*
+*://*.jicknights.org/*
+*://blog.livedoor.jp/biwakohuhihi/*
+*://*.tabinolog.com/*
+*://*.bokuweb.com/*
