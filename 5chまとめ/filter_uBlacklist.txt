@@ -729,3 +729,6 @@
 *://blog.livedoor.jp/biwakohuhihi/*
 *://*.tabinolog.com/*
 *://*.bokuweb.com/*
+*://twitter.com/antennanj*
+*://blog.livedoor.com/matomeportal/nanj/*
+*://*.chooinkya.com/*
